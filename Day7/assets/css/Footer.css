@@ -1,0 +1,23 @@
+/* Footer.css */
+.footer {
+  background-color: white; /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+  background-size: cover; /* Ensures the image covers the entire footer */
+  color: #333;
+  padding: 20px 0;
+  text-align: end;
+  position: relative;
+  }
+  
+  .footer p {
+    margin: 0;
+  }
+  
+  .footer a {
+    color: #333; /* Change link color to contrast with white background */
+    text-decoration: none;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,44 @@
+/* Style for Welcome component */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Ensures the container takes up the full height of the viewport */
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  text-align: center; /* Center-align the heading */
+  color: #ffc107; /* Yellowish color */
+}
+
+p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  text-align: center; /* Center-align the paragraph */
+  color: #ffc107; /* Yellowish color */
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px; /* Add margin to separate from the paragraph */
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #ffc107; /* Yellowish color */
+  border: none;
+  border-radius: 5px;
+  color: #fff; /* White color */
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ffca28; /* Lighter shade of yellow */
+}
+/* Welcome.css */

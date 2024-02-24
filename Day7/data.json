@@ -1,0 +1,53 @@
+{
+    "courses": [
+      {
+        "title": "Chess for Beginners",
+        "description": "Learn the fundamentals of chess",
+        "duration": "4 weeks",
+        "website": "https://www.chessacademy.com",
+        "logo": "path/to/chessacademy_logo.png",
+        "reference_book_pdf": "path/to/chess_reference_book.pdf"
+      },
+      {
+        "title": "Advanced JavaScript",
+        "description": "Master JavaScript concepts such as closures and prototypes",
+        "duration": "6 weeks",
+        "website": "https://www.jsmasters.com",
+        "logo": "path/to/jsmasters_logo.png",
+        "reference_book_pdf": "path/to/js_reference_book.pdf"
+      },
+      {
+        "title": "Web Development with Node.js",
+        "description": "Learn to build web applications using Node.js",
+        "duration": "8 weeks",
+        "website": "https://www.nodemasters.com",
+        "logo": "path/to/nodemasters_logo.png",
+        "reference_book_pdf": "path/to/nodejs_reference_book.pdf"
+      }, 
+      {
+        "title": "Chess for Beginners",
+        "description": "Learn the fundamentals of chess",
+        "duration": "4 weeks",
+        "website": "https://www.chessacademy.com",
+        "logo": "path/to/chessacademy_logo.png",
+        "reference_book_pdf": "path/to/chess_reference_book.pdf"
+      },
+      {
+        "title": "Advanced JavaScript",
+        "description": "Master JavaScript concepts such as closures and prototypes",
+        "duration": "6 weeks",
+        "website": "https://www.jsmasters.com",
+        "logo": "path/to/jsmasters_logo.png",
+        "reference_book_pdf": "path/to/js_reference_book.pdf"
+      },
+      {
+        "title": "Web Development with Node.js",
+        "description": "Learn to build web applications using Node.js",
+        "duration": "8 weeks",
+        "website": "https://www.nodemasters.com",
+        "logo": "path/to/nodemasters_logo.png",
+        "reference_book_pdf": "path/to/nodejs_reference_book.pdf"
+      }
+    ]
+  }
+  

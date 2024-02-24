@@ -1,0 +1,64 @@
+/* signup.css */
+
+.signup-container {
+  max-width: 400px;
+  margin: 10vh auto; /* Center the signup container vertically */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  color: #ffff99; /* Yellowish text color */
+}
+
+.signup-container h2 {
+  margin-bottom: 10px;
+}
+
+.signup-container .form-group {
+  margin-bottom: 15px;
+}
+
+.signup-container label {
+  display: block;
+  margin-bottom: 5px;
+}
+.signup-container input[type='firstname'],
+.signup-container input[type='lastname'],
+.signup-container input[type='email'],
+.signup-container input[type='password'] {
+  width: 90%;
+  padding: 10px;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+  color: #fff107;
+}
+
+/* Make the first name and last name input fields same as email */
+
+.signup-container button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.signup-container button:hover {
+  background-color: #45a049;
+}
+
+.signup-container .error-message {
+  color: red;
+  margin-top: 10px;
+}
+
+.signup-container .switch-page {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.signup-container .switch-page span {
+  color: blue;
+  cursor: pointer;
+}

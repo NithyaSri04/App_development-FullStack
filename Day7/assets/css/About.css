@@ -1,0 +1,39 @@
+/* About.css */
+
+.about-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f0f0f0; /* Set the background color to match the welcome page */
+}
+
+.about-content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.about-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Center the content horizontally */
+}
+
+.text-container {
+  flex: 1; /* Occupy one-third of the available space */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center the content vertically */
+}
+
+.text-container h1 {
+  color: #ffcc00; /* Yellowish color for headings */
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.text-container p1 {
+  color: #ffcc00; /* Yellowish color for paragraphs */
+  line-height: 1.6;
+  margin: 0; /* Remove default margin */
+  text-align: center; /* Center p1 text */
+}

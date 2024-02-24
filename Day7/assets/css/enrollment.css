@@ -1,0 +1,60 @@
+/* enrollment.css */
+
+/* Styles for the overall container */
+.enrollment-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: transparent;
+  color: #ffff99; /* Yellowish text color */
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Styles for headings */
+.enrollment-container h2 {
+  margin-bottom: 10px;
+}
+
+/* Styles for labels */
+.enrollment-container label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Styles for input and select elements */
+.enrollment-container input,
+.enrollment-container select {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  color: #ffc107;
+}
+
+/* Styles for submit button */
+.enrollment-container button {
+  width: 100%;
+  padding: 10px;
+  background-color: #ffc107;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Styles for submit button on hover */
+.enrollment-container button:hover {
+  background-color: #0056b3;
+}
+
+/* Styles for textarea */
+.enrollment-container textarea {
+  width: 100%;
+  height: 100%;
+  color: #ffff99; /* Yellowish text color */
+}
