@@ -1,0 +1,28 @@
+/* main{
+    background-color: azure;
+} */
+.slider{
+    margin-left: 19%;
+    margin-top: 10px;
+    background-size: cover;
+    /* width: 60%;
+    margin-right: auto; */
+    /* align-items: center; */
+    /* justify-self:center; */
+
+}
+.menubar{
+    justify-content: center;
+    display:block;
+    gap: 20px;
+}
+.play{
+    border: 2px solid;
+    background-clip: padding-box;
+    padding: 20px;
+    color: #818282;
+    transition: border-color 0.3s ease;
+}
+.play :hover{
+    border-color: #3498db;
+}

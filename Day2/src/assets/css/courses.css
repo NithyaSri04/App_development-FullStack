@@ -1,0 +1,8 @@
+.course{
+    margin-top: 5%;
+    /* width: 100%; */
+    display:flex;
+    margin-left: 19%;
+    gap: 20px;
+    padding-bottom: 10px;
+}
